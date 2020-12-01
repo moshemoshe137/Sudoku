@@ -1,14 +1,6 @@
 import itertools
 
 
-# here are some changes to my project
-def get_nothing(x):
-    if x > 0:
-        return
-    else:
-        pass
-# one extra line
-
 class Cell:
 
     def __init__(self, row, column, value=None):
