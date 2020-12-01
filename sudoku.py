@@ -1,12 +1,12 @@
 import itertools
 
 
-# here are some changes to my project
-def get_nothing(x):
-    if x > 0:
-        return
-    else:
-        pass
+# # here are some changes to my project
+# def get_nothing(x):
+#     if x > 0:
+#         return
+#     else:
+#         pass
 
 
 class Cell:
