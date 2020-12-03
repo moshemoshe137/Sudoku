@@ -391,4 +391,4 @@ def solve_brute_force(sudoku):
             return
         count += 1
 
-# EOF
+# End of file
