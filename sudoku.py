@@ -1,4 +1,6 @@
 import itertools
+import sys
+import random
 
 
 class Cell:
