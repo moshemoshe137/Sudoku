@@ -10,6 +10,7 @@ class Cell:
         self.possible_values = []
         self.unsolved = True
         self.quad = (self.row // 3, self.column // 3)
+        self.is_beautiful = True
         if self.value is None:
             self.possible_values = range(1, 10)
         else:
